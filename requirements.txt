@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain-openai
+langchain-community
+python-dotenv
+langchain-chroma
+sentence-transformers
+fastapi 
+uvicorn 
+langserve
+sse_starlette
+langgraph-cli
+langgraph-api
